@@ -1,0 +1,27 @@
+{
+  "name": "ompeak-webpack",
+  "version": "1.0.0",
+  "description": "[参考](http://zhaoda.net/webpack-handbook/install.html)",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords":[
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcary/ompeak-webpack.git"
+  },
+  "author": "peak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peakcary/ompeak-webpack/issues"
+  },
+  "homepage": "https://github.com/peakcary/ompeak-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
